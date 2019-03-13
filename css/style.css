@@ -3,7 +3,7 @@ html,body{
 
 font-family:arial ;
 margin: 0;
-background-color:#ffe066;
+background-image:linear-gradient(#ffe066,#ffe066,#ffcc00,#ffe066);
 }
 header{
 	background-color: #ffcc00;
