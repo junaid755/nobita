@@ -1,5 +1,5 @@
 .fade-in{
-  animation: animationFrames ease 3s;
+  animation: animationFrames ease 4s;
   animation-iteration-count: 1;
   transform-origin: 50% 50%;
   animation-fill-mode:forwards; /*when the spec is finished*/
