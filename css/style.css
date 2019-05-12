@@ -3,7 +3,7 @@ html,body{
 
 font-family:arial ;
 margin: 0;
-background-color:#ffe066;
+background-image:linear-gradient(#ffe066,#ffe066,#ffcc00,#ffe066);
 }
 header{
 	background-color: #ffcc00;
@@ -22,6 +22,7 @@ h1{
 header img {
 	border-radius: 154px;
 	border: 20px solid white;
+	width: 350px;
 
 }
  
@@ -40,6 +41,7 @@ ul{
 	list-style: none;
 	padding: 0;
 	margin: 0;
+	font-size: 1.5em;
 }
 p.caption{
 	font-style: 15px;
@@ -60,7 +62,13 @@ footer ul{
 	text-align: center;
 }
 footer{
+	font-size: 1.5em;
 	margin-top: 30px;
 	padding: 40px 20px; 
 	background-color:  #ffcc00;
 }
+h2{
+	font-size: 3em;
+}
+p{font-size: 2em;}
+ol li{font-size: 1.5em;}
